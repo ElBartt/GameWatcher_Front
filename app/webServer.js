@@ -72,7 +72,7 @@ class WebServer {
                 path: `/api/v9/guilds/${guildId}`,
                 method: 'GET',
                 headers: {
-                    Authorization: `Bot ${process.env.TOKEN}`
+                    Authorization: `Bot ${process.env.DISCORD_TOKEN}`
                 }
             };
 

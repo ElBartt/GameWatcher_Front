@@ -46,6 +46,7 @@ TODO
         ```
         LOG_LEVEL=INFO
 
+        DISCORD_TOKEN=
         DISCORD_CLIENT_ID=
         DISCORD_CLIENT_SECRET=
         DISCORD_CALLBACK_URL=
